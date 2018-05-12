@@ -1,0 +1,27 @@
+_repo: Two-Boy-Gold-Miners--Or-Lost-in-the-Mountains_39094
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39094-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Webster, Frank V.
+    gutenberg_agent_id: '1955'
+    url: http://www.gutenberg.org/2009/agents/1955
+description: ''
+gutenberg_issued: '2012-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39094'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Western stories'
+- !lcsh 'Mountains -- Juvenile fiction'
+- !lcsh 'Gold mines and mining -- Juvenile fiction'
+- !lcsh 'Gold -- Juvenile fiction'
+title: Two Boy Gold Miners; Or, Lost in the Mountains
+url: http://www.gutenberg.org/ebooks/39094
