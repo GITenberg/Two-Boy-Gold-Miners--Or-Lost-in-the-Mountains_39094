@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '1955'
     url: http://www.gutenberg.org/2009/agents/1955
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39094#Two-Boy-Gold-Miners--Or-Lost-in-the-Mountains
 gutenberg_issued: '2012-03-10'
 gutenberg_type: Text
 identifiers:
